@@ -1,0 +1,12 @@
+torch>=1.8.0
+torchvision
+numpy
+scikit-image
+scipy
+pydicom
+SimpleITK
+matplotlib
+tensorboard
+tqdm
+pyyaml
+opencv-python

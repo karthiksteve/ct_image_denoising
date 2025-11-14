@@ -1,0 +1,24 @@
+======================================================================
+NOISE-AWARE COMPLEMENTARY GAN FOR LOW-DOSE CT DENOISING
+Evaluation Report
+======================================================================
+
+DATASET STATISTICS
+----------------------------------------------------------------------
+Total samples:      1040
+Training samples:   832
+Validation samples: 104
+Test samples:       104
+
+MODEL ARCHITECTURE
+----------------------------------------------------------------------
+Generator:          Dual-Head UNet (1,937,122 params)
+Local Discriminator: PatchGAN (2,764,481 params)
+Global Discriminator: Scalar (2,756,801 params)
+Total parameters:   7,458,404
+
+TRAINING CONFIGURATION
+----------------------------------------------------------------------
+Epochs:             1
+Batch size:         2
+Learning rate:      0.0002
