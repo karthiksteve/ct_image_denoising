@@ -1,4 +1,4 @@
-# Noise-Aware Complementary GAN for Low-Dose CT Image Denoising
+# GAN-Based Architecture for Low-dose Computed Tomography Imaging Denoising
 
 ## Abstract
 
@@ -16,6 +16,8 @@ This project implements a novel dual-discriminator Generative Adversarial Networ
 **Conference/Journal:** IEEE Medical Imaging  
 **Year:** 2024  
 **Paper Location:** `report/Base_Paper_Noise_Aware_Complementary_GAN.pdf`
+
+**Our Project:** GAN-Based Architecture for Low-dose Computed Tomography Imaging Denoising
 
 This implementation is based on the methodology described in the referenced paper, implementing the dual-head generator with orthogonality constraints and dual discriminator architecture for medical CT image denoising.
 

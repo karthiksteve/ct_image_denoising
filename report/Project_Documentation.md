@@ -1,11 +1,11 @@
 # SWE1010 Project Documentation
-## Noise-Aware Complementary GAN for Low-Dose CT Image Denoising
+## GAN-Based Architecture for Low-dose Computed Tomography Imaging Denoising
 
 ---
 
 ## Project Information
 
-**Project Title:** Noise-Aware Complementary GAN for Low-Dose CT Image Denoising
+**Project Title:** GAN-Based Architecture for Low-dose Computed Tomography Imaging Denoising
 
 **Team Members:**
 - Paturi Siva Prakash - 20MIA1107
